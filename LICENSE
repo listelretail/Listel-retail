@@ -1,24 +1,100 @@
-This is free and unencumbered software released into the public domain.
+LICENSE – Listel (Gamified Retail List App)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2025 Ivayla Trifonova
+All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+⸻
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. Purpose of this Repository
 
-For more information, please refer to <https://unlicense.org>
+This repository contains the source code, concepts, and documentation related to Listel, a gamified list and engagement application designed for retailers and local commerce ecosystems.
+
+The project combines:
+	•	shopping lists,
+	•	gamification mechanics,
+	•	local retailer engagement,
+	•	customer loyalty incentives.
+
+⸻
+
+2. License Grant (Limited)
+
+Permission is hereby granted to view, study, and evaluate the contents of this repository for non-commercial purposes only, subject to the restrictions below.
+
+You are allowed to:
+	•	Read and review the source code
+	•	Fork the repository for private evaluation
+	•	Use snippets for educational or research purposes
+	•	Provide feedback, suggestions, or contributions via pull requests
+
+⸻
+
+3. Restrictions
+
+You may NOT, without explicit written permission from the copyright holder:
+	•	Use the software or concept for commercial purposes
+	•	Deploy the software in production environments
+	•	Offer the software or derivatives as a service (SaaS, PaaS, App, Plugin)
+	•	Use the concept, mechanics, or UX patterns to build a competing product
+	•	White-label, resell, sublicense, or monetize the software
+	•	Reverse-engineer the product concept for commercial replication
+	•	Use the name “Listel” or related branding
+
+This includes direct or indirect monetization, including but not limited to:
+	•	advertising
+	•	affiliate marketing
+	•	data monetization
+	•	retailer subscriptions
+	•	loyalty programs
+	•	sponsored placements
+
+⸻
+
+4. Intellectual Property
+
+All intellectual property rights, including but not limited to:
+	•	product concept
+	•	gamification logic
+	•	business model
+	•	UX flows
+	•	retailer incentive mechanics
+	•	scoring, reward, or ranking systems
+
+remain the exclusive property of the copyright holder.
+
+This license does not grant any patent, trademark, or branding rights.
+
+⸻
+
+5. Contributions
+
+By submitting a contribution (code, documentation, ideas), you agree that:
+	•	the contribution may be used commercially by the project owner
+	•	no compensation or royalties are owed
+	•	the contribution becomes part of the licensed work under these terms
+
+⸻
+
+6. Commercial Licensing
+
+Commercial usage, partnerships, pilot projects, white-label solutions, or integrations require a separate commercial license agreement.
+
+For commercial inquiries, contact:
+listel.retail@gmail.com
+
+⸻
+
+7. Disclaimer
+
+The software is provided “as is”, without warranty of any kind.
+The authors shall not be liable for any claim, damages, or liability arising from the use of the software.
+
+⸻
+
+8. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of Switzerland, without regard to conflict of law principles.
+
+
+
+
